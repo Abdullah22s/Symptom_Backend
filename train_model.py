@@ -16,10 +16,10 @@ from sklearn.metrics import accuracy_score, classification_report
 # STEP 2: Load datasets
 # ================================
 df1 = pd.read_csv("doctor_specialty_bilingual_dataset.csv")
-df2 = pd.read_csv("medical_dataset_250.csv")
+
 
 # Combine datasets
-df = pd.concat([df1, df2], ignore_index=True)
+df = pd.concat([df1], ignore_index=True)
 print("✅ Combined dataset loaded. Total rows:", len(df))
 
 # Drop rows with missing values in 'text' or 'specialty'
