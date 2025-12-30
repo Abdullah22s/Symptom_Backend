@@ -19,6 +19,7 @@ I have difficulty breathing at night,Pulmonology
 My eyes are irritated,Ophthalmology
 My knees are painful,Orthopedics
 I feel my heart racing,Cardiology
+My heart is beating fast,Cardiology
 I have itchy eyes,Ophthalmology
 My chest hurts occasionally,Cardiology
 I have rashes on my skin,Dermatology
@@ -120,258 +121,120 @@ My heart races,Cardiology
 I have chest discomfort,Cardiology
 I have shortness of breath,Pulmonology
 My stomach hurts,Gastroenterology
-chest pain and tightness,Cardiology
-,
-left side chest pain,Cardiology
-,
-heart palpitations,Cardiology
-,
-shortness of breath with chest pain,Cardiology
-,
-irregular heartbeat,Cardiology
-,
-high blood pressure symptoms,Cardiology
-,
-swelling in legs and ankles,Cardiology
-,
-breathing difficulty,Cardiology
-,
-tooth pain,Dentistry
-,
-bleeding gums,Dentistry
-,
-jaw pain,Dentistry
-,
-mouth ulcers,Dentistry
-,
-tooth sensitivity,Dentistry
-,
-bad breath problem,Dentistry
-,
-broken tooth pain,Dentistry
-,
-gum infection,Dentistry
-,
-persistent cough,Pulmonology
-,
-shortness of breath,Pulmonology
-,
-dry cough at night,Pulmonology
-,
-asthma symptoms,Pulmonology
-,
-wheezing sound while breathing,Pulmonology
-,
-chest congestion,Pulmonology
-,
-wet cough with phlegm,Pulmonology
-,
-breathing problem at night,Pulmonology
-,
-high fever with chills,Infectious Diseases
-,
-fever and body pain,Infectious Diseases
-,
-viral infection symptoms,Infectious Diseases
-,
-dengue fever symptoms,Infectious Diseases
-,
-typhoid fever symptoms,Infectious Diseases
-,
-covid like symptoms,Infectious Diseases
-,
-severe weakness with fever,Infectious Diseases
-,
-infection with fever,Infectious Diseases
-,
-severe headache,Neurology
-,
-migraine headache,Neurology
-,
-dizziness and fainting,Neurology
-,
-numbness in hands,Neurology
-,
-memory loss problem,Neurology
-,
-seizures problem,Neurology
-,
-tingling sensation,Neurology
-,
-loss of balance,Neurology
-,
-skin rash and itching,Dermatology
-,
-acne problem,Dermatology
-,
-hair fall problem,Dermatology
-,
-fungal infection on skin,Dermatology
-,
-eczema symptoms,Dermatology
-,
-psoriasis symptoms,Dermatology
-,
-dry skin itching,Dermatology
-,
-allergic skin reaction,Dermatology
-,
-knee pain,Orthopedics
-,
-joint pain and stiffness,Orthopedics
-,
-back pain,Orthopedics
-,
-shoulder pain,Orthopedics
-,
-bone fracture pain,Orthopedics
-,
-muscle pain,Orthopedics
-,
-ankle pain,Orthopedics
-,
-hip joint pain,Orthopedics
-,
-lower back pain,Physiotherapy
-,
-neck pain and stiffness,Physiotherapy
-,
-posture related pain,Physiotherapy
-,
-muscle spasm,Physiotherapy
-,
-sports injury pain,Physiotherapy
-,
-shoulder stiffness,Physiotherapy
-,
-slip disc pain,Physiotherapy
-,
-rehabilitation therapy pain,Physiotherapy
-,
-stomach pain,Gastroenterology
-,
-vomiting and nausea,Gastroenterology
-,
-acid reflux problem,Gastroenterology
-,
-gas and bloating,Gastroenterology
-,
-diarrhea problem,Gastroenterology
-,
-constipation problem,Gastroenterology
-,
-abdominal pain after eating,Gastroenterology
-,
-indigestion problem,Gastroenterology
-,
-burning urination,Urology
-,
-frequent urination,Urology
-,
-blood in urine,Urology
-,
-urinary infection symptoms,Urology
-,
-pain during urination,Urology
-,
-kidney stone pain,Urology
-,
-bladder pain,Urology
-,
-difficulty urinating,Urology
-,
-irregular periods,Gynecologist
-,
-painful menstruation,Gynecologist
-,
-missed periods,Gynecologist
-,
-excessive menstrual bleeding,Gynecologist
-,
-pregnancy related issues,Gynecologist
-,
-pelvic pain,Gynecologist
-,
-white discharge problem,Gynecologist
-,
-menopause symptoms,Gynecologist
-,
-eye pain,Ophthalmology
-,
-blurred vision,Ophthalmology
-,
-red eyes problem,Ophthalmology
-,
-itchy eyes,Ophthalmology
-,
-watering eyes,Ophthalmology
-,
-vision loss problem,Ophthalmology
-,
-eye infection,Ophthalmology
-,
-dry eyes problem,Ophthalmology
-,
-ear pain,ENT
-,
-sore throat,ENT
-,
-nasal congestion,ENT
-,
-sinus pain,ENT
-,
-tonsillitis symptoms,ENT
-,
-hearing loss,ENT
-,
-ear discharge,ENT
-,
-voice hoarseness,ENT
-,
-anxiety and panic attacks,Psychiatry
-,
-depression symptoms,Psychiatry
-,
-stress related issues,Psychiatry
-,
-sleep disorder,Psychiatry
-,
-mood swings,Psychiatry
-,
-mental fatigue,Psychiatry
-,
-fear and nervousness,Psychiatry
-,
-emotional instability,Psychiatry
-,
-weight loss without reason,Endocrinology
-,
-excessive thirst,Endocrinology
-,
-diabetes symptoms,Endocrinology
-,
-thyroid problem symptoms,Endocrinology
-,
-hormonal imbalance,Endocrinology
-,
-sudden weight gain,Endocrinology
-,
-fatigue due to hormones,Endocrinology
-,
-slow metabolism problem,Endocrinology
-,
-general fever,General Medicine
-,
-body pain and weakness,General Medicine
-,
-cold and flu symptoms,General Medicine
-,
-seasonal illness,General Medicine
-,
-mild infection symptoms,General Medicine
-,
-fatigue and tiredness,General Medicine
-,
-loss of appetite,General Medicine
-,
-headache with fever,General Medicine
+I have palpitations during exercise,Cardiology
+I feel chest heaviness,Cardiology
+I get dizzy when standing up quickly,Cardiology
+I experience swelling around my eyes,Urology
+I have foamy urine,Urology
+I have frequent urination at night,Urology
+I feel shortness of breath on exertion,Pulmonology
+I experience persistent wheezing,Pulmonology
+I cough up yellow or green mucus,Pulmonology
+I have sharp pain in my right upper abdomen,Gastroenterology
+I feel nausea after meals,Gastroenterology
+I have yellowing of skin and eyes,Gastroenterology
+I bruise easily,Hematology
+I experience prolonged bleeding from minor cuts,Hematology
+I feel fatigued and weak,Hematology
+I have sudden hair loss,Dermatology
+I notice red,Dermatology
+I have dry and flaky skin,Dermatology
+I feel numbness or tingling in hands and feet,Neurology
+I have sudden severe headache,Neurology
+I experience memory lapses,Neurology
+I feel sudden confusion or disorientation,Neurology
+I have persistent anxiety or panic attacks,Psychiatry
+I feel depressed or hopeless,Psychiatry
+I experience mood swings,Psychiatry
+I have difficulty sleeping,Psychiatry
+I feel persistent fatigue,Endocrinology
+I notice unexplained weight loss,Endocrinology
+I notice unexplained weight gain,Endocrinology
+I feel excessive thirst,Endocrinology
+I experience frequent urination,Endocrinology
+I feel rapid heart rate or palpitations,Cardiology
+I experience chest tightness,Cardiology
+I feel breathless when lying down,Cardiology
+I have elevated blood pressure readings,Cardiology
+I have night sweats with fever,Infectious Diseases
+I feel body aches and chills,Infectious Diseases
+I have persistent cough with fever,Infectious Diseases
+I experience vomiting and dehydration,Infectious Diseases
+I have abdominal bloating and discomfort,Gastroenterology
+I feel burning in the stomach after meals,Gastroenterology
+I experience diarrhea frequently,Gastroenterology
+I have constipation problems,Gastroenterology
+I feel sudden severe back pain,Physiotherapy
+I have stiffness in neck and shoulders,Physiotherapy
+I have joint pain and swelling,Orthopedics
+I have muscle cramps and spasms,Physiotherapy
+I notice redness and swelling in joints,Orthopedics
+I have pain in knees,Orthopedics
+I have blurred vision,Ophthalmology
+I experience eye pain and irritation,Ophthalmology
+I have redness and watering in eyes,Ophthalmology
+I experience hearing loss or ringing in ears,ENT
+I have nasal congestion and sinus pain,ENT
+I have sore throat and difficulty swallowing,ENT
+I have persistent hoarseness,ENT
+I have frequent headaches with nausea,Neurology
+I feel tingling in arms and legs,Neurology
+I have confusion or sudden memory loss,Neurology
+I feel pressure in the chest with shortness of breath,Cardiology
+I feel tightness in my chest,Cardiology
+I have palpitations and dizziness,Cardiology
+I have swelling in my legs,Cardiology
+I feel faint and dizzy,Neurology
+I have sudden severe headache,Neurology
+I experience confusion and memory loss,Neurology
+I feel breathless while walking,Pulmonology
+I have persistent wheezing,Pulmonology
+I cough up blood,Pulmonology
+I have yellowing of my skin,Gastroenterology
+My urine is dark in color,Gastroenterology
+I have swelling in my abdomen,Gastroenterology
+I notice unusual bruising,Hematology
+I have frequent nosebleeds,Hematology
+I feel weak and fatigued,Hematology
+I have severe itching on my skin,Dermatology
+I have red patches on my skin,Dermatology
+I have sudden weight gain due to fluid retention,Cardiology
+I feel high blood pressure symptoms like headache,Cardiology
+I feel palpitations when stressed,Cardiology
+I have persistent nausea,Gastroenterology
+I have vomiting blood,Gastroenterology
+I notice black or tarry stools,Gastroenterology
+I experience tremors or shaking,Neurology
+I have trouble balancing,Neurology
+I feel tingling in my hands and feet,Neurology
+I have persistent cough with mucus,Pulmonology
+I experience chest congestion,Pulmonology
+I have difficulty breathing at night,Pulmonology
+I feel bloated and gassy,Gastroenterology
+I have burning sensation in my stomach,Gastroenterology
+I feel pain in my upper right abdomen,Gastroenterology
+I notice swelling in my face and hands,Urology
+I have dark or foamy urine,Urology
+I experience frequent urination at night,Urology
+I feel sudden pain in my lower back,Urology
+I experience dizziness with high blood pressure,Cardiology
+I feel rapid heartbeat when standing up,Cardiology
+I have persistent fatigue and weakness,Endocrinology
+I feel excessive thirst and urination,Endocrinology
+I notice unexplained weight changes,Endocrinology
+I have tremors and heat intolerance,Endocrinology
+I feel persistent anxiety and panic,Psychiatry
+I have depressive mood swings,Psychiatry
+I experience insomnia,Psychiatry
+I feel confused and disoriented,Neurology
+I notice jaundice in eyes and skin,Gastroenterology
+I have swelling in my legs and feet,Urology
+I experience sudden severe abdominal pain,Gastroenterology
+I have heartburn and acid reflux,Gastroenterology
+I have itchy and scaly skin patches,Dermatology
+I feel sudden chest pressure,Cardiology
+I have shortness of breath while lying down,Cardiology
+I have abnormal bruising or bleeding,Hematology
+I feel numbness in my arms or legs,Neurology
+I have irregular heartbeat,Cardiology
+I feel persistent fatigue with weakness,Endocrinology
